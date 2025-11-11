@@ -1,0 +1,22 @@
+
+what to do
+
+Make a Searching Functionality in the project
+payment integration
+add actual send us a message to an email
+add an option to rate the product 
+
+
+whats done
+
+
+email is done email js is used
+UI changes (green)
+added a total floating info
+added items for buying visibility 
+
+
+
+installation of new tech
+emailjs
+react-router-hash-link ( for smooth scrolling)
